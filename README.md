@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### Get in touch
+- Telegram: @esender
+
+### My projects
+- *Let's Code* telegram channel @letscode_io
 
 <!--
 **esender/esender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
