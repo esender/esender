@@ -28,7 +28,7 @@ I love my wife, programming, and traveling. I'm fond of building complex and use
 
 @vaihtovirta and I stream versitale programming stuff.
 
-*Links:* [Twitch](https://twitch.tv/letscode-io)
+*Links:* [Twitch](https://twitch.tv/letscode_io)
 
 #### 🏆 Ideal World Cup Clone
 
@@ -67,6 +67,6 @@ The chrome extension that puts a nice block with useful timecodes under each You
 * *site* [esender.me](https://esender.me)
 * *email* [marat@esender.me](mailto:marat@esender.me)
 * *telegram* [@esender](https://t.me/esender)
-* *twitch* [letscode-io](https://twitch.tv/letscode-io)
+* *twitch* [letscode_io](https://twitch.tv/letscode_io)
 * *linkedIn* [esender](https://www.linkedin.com/in/esender/)
 * *twitter* [@esender_](https://twitter.com/esender_)
