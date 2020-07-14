@@ -1,5 +1,5 @@
 # I am Marat 👋
-## I am s Software Engineer
+## I am a Software Engineer
 
 I love my wife, programming, and traveling. I'm fond of building complex and useful products, and some useless but fun stuff.
 
