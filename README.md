@@ -26,7 +26,7 @@ I love my wife, programming, and traveling. I'm fond of building complex and use
 
 #### 👾 Let's Code Twitch Channel [RU]
 
-@vaihtovirta and I stream versitale programming stuff.
+[@vaihtovirta](https://github.com/vaihtovirta) and I stream versitale programming stuff.
 
 *Links:* [Twitch](https://twitch.tv/letscode_io)
 
