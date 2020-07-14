@@ -7,7 +7,7 @@ I love my wife, programming, and traveling. I'm fond of building complex and use
 
 * *Languages:* JavaScript, Ruby
 * *Front-end frameworks:* React, Preact
-* *Back-end frameworks:* Runy on Rails
+* *Back-end frameworks:* Ruby on Rails
 * *Bundlers:* Webpack, Parcel
 * *Testing frameworks:* Jest, Chai, Sinon
 * *Databases:* PostgreSQL
