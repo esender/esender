@@ -47,7 +47,7 @@ The chrome extension that puts a nice block with useful timecodes under each You
 ### 📖 I’m currently learning...
 
 - [x] ~~Svelte~~
-- [ ] Docker
+- [ ] 🤿 Docker
 - [ ] Traefik
 - [ ] TypeScript
 - [ ] Kubernetes
