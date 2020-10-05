@@ -35,7 +35,7 @@ I love my wife, programming, and traveling. I'm fond of building complex and use
 Clone of the Korean [Ideal World Cup](https://www.piku.co.kr/) site. Trying to do it better.
 
 *Stack:* `Ruby on Rails`, `Preact`, `Docker`<br>
-*Links:* [GitHub](https://github.com/letscode-io/ideal_world_cup), [Site](https://piku.letscode.io)
+[Site](https://eye2eye.fun)
 
 #### ⏱️ Time Codes
 
@@ -47,7 +47,8 @@ The chrome extension that puts a nice block with useful timecodes under each You
 ### 📖 I’m currently learning...
 
 - [x] ~~Svelte~~
-- [ ] 🤿 Docker
+- [x] ~~Docker~~
+- [x] 🤿 Docker Swarm
 - [ ] Traefik
 - [ ] TypeScript
 - [ ] Kubernetes
