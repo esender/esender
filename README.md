@@ -48,7 +48,7 @@ The chrome extension that puts a nice block with useful timecodes under each You
 
 - [x] ~~Svelte~~
 - [x] ~~Docker~~
-- [x] 🤿 Docker Swarm
+- [ ] 🤿 Docker Swarm
 - [ ] Traefik
 - [ ] TypeScript
 - [ ] Kubernetes
