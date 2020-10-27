@@ -48,11 +48,11 @@ The chrome extension that puts a nice block with useful timecodes under each You
 
 - [x] ~~Svelte~~
 - [x] ~~Docker~~
-- [ ] 🤿 Docker Swarm
+- [ ] 🤿 ClojureScript
+- [ ] ⌛ Docker Swarm
 - [ ] Traefik
 - [ ] TypeScript
 - [ ] Kubernetes
-- [ ] ClojureScript
 - [ ] Dart
 - [ ] Electron
 - [ ] Reason
