@@ -5,20 +5,20 @@ I love my wife, programming, and traveling. I'm fond of building complex and use
 
 ### 👨‍💻 My tech stack...
 
-* *Languages:* JavaScript, Ruby
-* *Front-end frameworks:* React, Preact
-* *Back-end frameworks:* Ruby on Rails
+* *Languages:* JavaScript, Clojure/ClojureScript
+* *Front-end frameworks:* React
+* *Back-end frameworks:* ExpressJS
 * *Bundlers:* Webpack, Parcel
 * *Testing frameworks:* Jest, Chai, Sinon
 * *Databases:* PostgreSQL
 
 ### 💪 I am familiar with...
 
-* *Languages:* PHP
-* *Front-end frameworks:* Vue, Svelte
+* *Languages:* PHP, Ruby
+* *Front-end frameworks:* Vue, Svelte, Preact
 * *Bundlers:* Rollup
 * *Testing frameworks:* Ava, Mocha
-* *Back-end frameworks:* Hanami
+* *Back-end frameworks:* Hanami, Ruby on Rails
 * *Databases:* MySQL, MongoDB
 * *Other:* Bolt, Telegraf
 
@@ -36,13 +36,6 @@ Clone of the Korean [Ideal World Cup](https://www.piku.co.kr/) site. Trying to d
 
 *Stack:* `Ruby on Rails`, `Preact`, `Docker`<br>
 [Site](https://eye2eye.fun)
-
-#### ⏱️ Time Codes
-
-The chrome extension that puts a nice block with useful timecodes under each YouTube video.
-
-*Stack:* `Go`, `Svelte`, `Chrome Extension`<br>
-*Links:* [Extension GitHub](https://github.com/letscode-io/timecodes-client), [Backend GitHub](https://github.com/letscode-io/timecodes-api)
 
 ### 📖 I’m currently learning...
 
