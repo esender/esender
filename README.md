@@ -1,22 +1,22 @@
 # I am Marat 👋
 ## I am a Software Engineer
 
-I love my wife, programming, and traveling. I'm fond of building complex and useful products, and some useless but fun stuff.
+I love programming, photography and traveling. I'm fond of building complex and useful products, and some useless but fun stuff.
 
 ### 👨‍💻 My tech stack...
 
-* *Languages:* JavaScript, Clojure/ClojureScript
+* *Languages:* JavaScript, Python
 * *Front-end frameworks:* React
-* *Back-end frameworks:* ExpressJS
-* *Bundlers:* Webpack, Parcel
-* *Testing frameworks:* Jest, Chai, Sinon
+* *Back-end frameworks:* ExpressJS, FastAPI
+* *Bundlers:* Vite
+* *Testing frameworks:* Jest, Chai, Sinon, Vitest
 * *Databases:* PostgreSQL
 
 ### 💪 I am familiar with...
 
-* *Languages:* PHP, Ruby
+* *Languages:* PHP, Ruby, Clojure/ClojureScript
 * *Front-end frameworks:* Vue, Svelte, Preact
-* *Bundlers:* Rollup
+* *Bundlers:* Rollup, Webpack, Parcel
 * *Testing frameworks:* Ava, Mocha
 * *Back-end frameworks:* Hanami, Ruby on Rails
 * *Databases:* MySQL, MongoDB
@@ -24,27 +24,17 @@ I love my wife, programming, and traveling. I'm fond of building complex and use
 
 ### 🚧 I’m currently working on...
 
-#### 👾 Let's Code Twitch Channel [RU]
-
-[@vaihtovirta](https://github.com/vaihtovirta) and I stream various programming stuff.
-
-*Links:* [Twitch](https://twitch.tv/letscode_io)
-
-#### 🏆 Ideal World Cup Clone
-
-Clone of the Korean [Ideal World Cup](https://www.piku.co.kr/) site. Trying to do it better.
-
-*Stack:* `Ruby on Rails`, `Preact`, `Docker`<br>
-[Site](https://eye2eye.fun)
+#### Photography
 
 ### 📖 I’m currently learning...
 
 - [x] ~~Svelte~~
 - [x] ~~Docker~~
-- [ ] 🤿 ClojureScript
-- [ ] ⌛ Docker Swarm
-- [ ] Traefik
-- [ ] TypeScript
+- [x] ~~ClojureScript~~
+- [x] ~~Docker Swarm~~
+- [x] ~~Traefik~~
+- [x] ~~TypeScript~~
+- [ ] 🤿 Python
 - [ ] Kubernetes
 - [ ] Dart
 - [ ] Electron
@@ -53,8 +43,8 @@ Clone of the Korean [Ideal World Cup](https://www.piku.co.kr/) site. Trying to d
 - [ ] Go
 - [ ] Rust
 - [ ] Elixir
-- [ ] Python
 - [ ] Haskel
+
 
 ## Feel free to contact me...
 
